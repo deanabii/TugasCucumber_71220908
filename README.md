@@ -24,3 +24,5 @@ When the user add item to the cart
 And the user in the item list
 When the user remove item to the cart
 Then item shouldn't be seen in the item page
+
+![Screenshot 2025-06-07 000042](https://github.com/user-attachments/assets/b8dd1a8f-47a2-4ebf-92d5-74da2d5ed1b8)
